@@ -1,16 +1,13 @@
 
 kuch kuch. kuch aur changes.
-Changes made by srish.
+Changes made by srish again.
 hello
 sidisuyiudyusiydiuysiudyiusyid
 uysdtustyudtyusudytsd
-<<<<<<< HEAD
 My version of hello.txt.
 are hoja change
-=======
->>>>>>> 7366b0ac6c08eed02b4317f8310a291110df8c27
 Hello, its me
-<<<<<<< HEAD
+
 
 
 
