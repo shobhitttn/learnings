@@ -1,9 +1,27 @@
+
 changes made by mudit after branch session
 changes by mudit .
+=======
+
+kuch kuch. kuch aur changes.
+>>>>>>> hello
 by Harshdeep
 hello
 sidisuyiudyusiydiuysiudyiusyid
 uysdtustyudtyusudytsd
-=======
 Hello, its me
+
+
+
+
  Commiting 2 files this time, one is new and other is modified
+Hello
+
+
+
+
+
+
+
+=======
+>>>>>>> a422064440acdcbe26b5252d1cc7a19bac574d55
