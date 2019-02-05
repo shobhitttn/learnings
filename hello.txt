@@ -5,7 +5,10 @@ hello
 sidisuyiudyusiydiuysiudyiusyid
 uysdtustyudtyusudytsd
 Hello, its me
-<<<<<<< HEAD
+ HEAD
+
+
+i am a coderr
 
 
 
@@ -18,5 +21,5 @@ Hello
 
 
 
-=======
->>>>>>> a422064440acdcbe26b5252d1cc7a19bac574d55
+
+
