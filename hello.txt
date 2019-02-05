@@ -1,13 +1,34 @@
- kuch. kuch aur changes.
+
+kuch kuch. kuch aur changes.
 by Harshdeep
 hello
 sidisuyiudyusiydiuysiudyiusyid
 uysdtustyudtyusudytsd
+<<<<<<< HEAD
 My version of hello.txt.
 are hoja change
+=======
+>>>>>>> 7366b0ac6c08eed02b4317f8310a291110df8c27
 Hello, its me
+<<<<<<< HEAD
+
+
+
  Commiting 2 files this time, one is new and other is modified
+<<<<<<< HEAD
 Hello, its me
  Commiting 2 files this time, one is new and other is modified
 wonderful day today
 
+=======
+Hello
+
+
+
+
+
+
+
+=======
+>>>>>>> a422064440acdcbe26b5252d1cc7a19bac574d55
+>>>>>>> 7366b0ac6c08eed02b4317f8310a291110df8c27
