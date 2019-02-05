@@ -1,1 +1,20 @@
+<<<<<<< HEAD
 hell ya
+=======
+
+< HEAD
+kuch kuch. kuch aur changes.
+by Harshdeep
+hello
+sidisuyiudyusiydiuysiudyiusyid
+uysdtustyudtyusudytsd
+=======
+Hello
+
+
+
+
+
+
+
+>>>>>>> f15254c73e2627ade0c4f0f4279287c534ad19d8
