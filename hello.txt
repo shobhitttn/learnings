@@ -1,10 +1,12 @@
 
-HEAD
 
 
 
 =======
 kuch kuch. kuch aur changes.
+=======
+changes by varnit goyal.
+>>>>>>> hello
 by Harshdeep
 hello
 sidisuyiudyusiydiuysiudyiusyid
