@@ -1,13 +1,12 @@
 
-< HEAD
 kuch kuch. kuch aur changes.
 by Harshdeep
 hello
 sidisuyiudyusiydiuysiudyiusyid
 uysdtustyudtyusudytsd
-=======
-Hello
 
+
+enw changes in my branch from harshdeep....
 
 
 
