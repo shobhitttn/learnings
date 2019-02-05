@@ -1,17 +1,38 @@
+
  kuch. kuch aur changes.
 Akuch bhi karo
 C
 C
 C
 c
+
+kuch kuch. kuch aur changes.
+>>>>>>> hello
 by Harshdeep
 
 Bas karo ab or force update na karo
 hello
 sidisuyiudyusiydiuysiudyiusyid
 uysdtustyudtyusudytsd
+<<<<<<< HEAD
 are hoja change
 
 =======
+=======
+>>>>>>> hello
 Hello, its me
+<<<<<<< HEAD
+
+
+
  Commiting 2 files this time, one is new and other is modified
+Hello
+
+
+
+
+
+
+
+=======
+>>>>>>> a422064440acdcbe26b5252d1cc7a19bac574d55
