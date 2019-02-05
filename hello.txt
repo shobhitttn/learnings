@@ -1,15 +1,5 @@
-<<<<<<< HEAD
- kuch. kuch aur changes.
-by Harshdeep
-hello
-sidisuyiudyusiydiuysiudyiusyid
-uysdtustyudtyusudytsd
-Hello, its me
- Commiting 2 files this time, one is new and other is modified
-wonderful day today
-=======
  hello
  
 C
 t
->>>>>>> commit the file
+
