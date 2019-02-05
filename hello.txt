@@ -1,7 +1,10 @@
-kuch kuch. kuch aur changes.
+ kuch. kuch aur changes.
 by Harshdeep
 hello
 sidisuyiudyusiydiuysiudyiusyid
 uysdtustyudtyusudytsd
 My version of hello.txt.
+are hoja change
+Hello, its me
+ Commiting 2 files this time, one is new and other is modified
 
