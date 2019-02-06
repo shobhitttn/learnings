@@ -1,17 +1,11 @@
-<<<<<<< HEAD
 newersworld is here
-=======
-<<<<<<< HEAD
 hell ya
-=======
 
-< HEAD
 kuch kuch. kuch aur changes.
 by Harshdeep
 hello
 sidisuyiudyusiydiuysiudyiusyid
 uysdtustyudtyusudytsd
-=======
 Hello
 
 
@@ -20,5 +14,3 @@ Hello
 
 
 
->>>>>>> f15254c73e2627ade0c4f0f4279287c534ad19d8
->>>>>>> 6806ecbaa466fa99609599d82f0bcde7664f3f22
