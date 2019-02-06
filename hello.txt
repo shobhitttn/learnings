@@ -5,11 +5,9 @@ hello
 sidisuyiudyusiydiuysiudyiusyid
 uysdtustyudtyusudytsd
 Hello, its me
-<<<<<<< HEAD
 
 
 
- Commiting 2 files this time, one is new and other is modified
 Hello
 
 
@@ -18,5 +16,3 @@ Hello
 
 
 
-=======
->>>>>>> a422064440acdcbe26b5252d1cc7a19bac574d55
